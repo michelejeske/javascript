@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+button{
+display: flex;
+}
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+margin: 0;
+background: #846c94;
+text-align: center;
+padding: 80px;
+}
+
+img{
+width: 400px;
+}
